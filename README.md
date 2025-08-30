@@ -1,4 +1,4 @@
-🤖🚀 Dive into the world of chatbots as we guide you through step-by-step tutorials, covering everything from the basics to advanced techniques. You'll gain hands-on experience in building interactive and responsive chatbots that can enhance user experiences on your web applications.
+🤖🚀 Dive into the world of chatbots as I guide you through step-by-step, covering everything from the basics to advanced techniques. You'll gain hands-on experience in building interactive and responsive chatbots that can enhance user experiences on your web applications.
 
 
 
